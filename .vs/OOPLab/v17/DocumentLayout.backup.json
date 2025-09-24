@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Visual Studio\\CS\\OOPLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|c:\\code\\visual studio\\cs\\ooplab\\migrations\\20250915055228_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|solutionrelative:migrations\\20250915055228_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|C:\\Code\\Visual Studio\\CS\\OOPLab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|c:\\code\\visual studio\\cs\\ooplab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|c:\\code\\visual studio\\cs\\ooplab\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|c:\\code\\visual studio\\cs\\ooplab\\viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|solutionrelative:viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|c:\\code\\visual studio\\cs\\ooplab\\models\\atmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|solutionrelative:models\\atmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|c:\\code\\visual studio\\cs\\ooplab\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428B229-5A6C-4FEF-BDE6-8A7C430B4DF8}|OOPLab.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250915055228_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Code\\Visual Studio\\CS\\OOPLab\\Migrations\\20250915055228_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250915055228_InitialCreate.cs",
+              "ToolTip": "C:\\Code\\Visual Studio\\CS\\OOPLab\\Migrations\\20250915055228_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250915055228_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:52:28.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Code\\Visual Studio\\CS\\OOPLab\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Code\\Visual Studio\\CS\\OOPLab\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:51:58.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Code\\Visual Studio\\CS\\OOPLab\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Code\\Visual Studio\\CS\\OOPLab\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:52:05.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Code\\Visual Studio\\CS\\OOPLab\\ViewModels\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AccountViewModel.cs",
+              "ToolTip": "C:\\Code\\Visual Studio\\CS\\OOPLab\\ViewModels\\AccountViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AccountViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:51:53.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Code\\Visual Studio\\CS\\OOPLab\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Code\\Visual Studio\\CS\\OOPLab\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:51:54.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ATMContext.cs",
+              "DocumentMoniker": "C:\\Code\\Visual Studio\\CS\\OOPLab\\Models\\ATMContext.cs",
+              "RelativeDocumentMoniker": "Models\\ATMContext.cs",
+              "ToolTip": "C:\\Code\\Visual Studio\\CS\\OOPLab\\Models\\ATMContext.cs",
+              "RelativeToolTip": "Models\\ATMContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:51:54.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Code\\Visual Studio\\CS\\OOPLab\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Code\\Visual Studio\\CS\\OOPLab\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:51:51.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
